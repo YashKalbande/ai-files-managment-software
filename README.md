@@ -8,7 +8,4 @@ Main Goals:<br/>
 2. Save metadata of files in postgresql database.<br/>
 3. Develop UI of software.<br/><br/>
 
-
-
-
-
+## LICENSE
